@@ -19,7 +19,7 @@ This project demonstrates Azure Administrator (AZ-104) skills by designing, depl
   - Restore individual files
   - Restore entire file share
   - Soft delete recovery
-  - 
+     
 ![Architecture Overview](screenshots/Storage_DR.jpg)
 ---
 
